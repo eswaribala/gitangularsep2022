@@ -1,0 +1,1 @@
+Deploy Angular project in netlify
