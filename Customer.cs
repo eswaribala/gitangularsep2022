@@ -8,4 +8,5 @@ public String CustomerName{get;set;}
 
 
 public String Email{get;set;}
+public String DOB {get;set;}
 }
